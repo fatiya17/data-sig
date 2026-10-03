@@ -4,6 +4,14 @@ This repository contains CSV data used for the Geographic Information System (GI
 
 The data contains geographic information about provinces, regencies, and cities in Indonesia, including latitude and longitude coordinates.
 
+## Student Information
+
+**Name:** Fatiya Labibah  
+**NIM:** 0110223060  
+**Program:** Informatics Engineering  
+**Course:** Geographic Information System  
+**Institution:** STT Terpadu Nurul Fikri
+
 ## Repository Structure
 
 ```text
@@ -59,9 +67,4 @@ The data was imported into Google My Maps and used as map layers. The GPS coordi
 - CSV
 - GitHub
 
-## Course
-
-**Course:** Geographic Information System  
-**Program:** Informatics Engineering  
-**Institution:** STT Terpadu Nurul Fikri
 **October 2026**
