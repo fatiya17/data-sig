@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>kota-depok</name>
+    <Style id="poly-00A000-3000-77-normal">
+      <LineStyle>
+        <color>ff00a000</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d00a000</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-00A000-3000-77-highlight">
+      <LineStyle>
+        <color>ff00a000</color>
+        <width>4.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d00a000</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-00A000-3000-77">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-00A000-3000-77-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-00A000-3000-77-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>depok</name>
+      <description><![CDATA[deskripsi: <br>Kota: Depok<br>Provinsi: Jawa Barat<br>Jumlah Kecamatan: 11<br>Kecamatan: Beji, Bojongsari, Cilodong, Cimanggis, Cinere, Cipayung, Limo, Pancoran Mas, Sawangan, Sukmajaya, Tapos]]></description>
+      <styleUrl>#poly-00A000-3000-77</styleUrl>
+      <ExtendedData>
+        <Data name="deskripsi">
+          <value/>
+        </Data>
+        <Data name="Kota">
+          <value>Depok</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>Jawa Barat</value>
+        </Data>
+        <Data name="Jumlah Kecamatan">
+          <value>11</value>
+        </Data>
+        <Data name="Kecamatan">
+          <value>Beji, Bojongsari, Cilodong, Cimanggis, Cinere, Cipayung, Limo, Pancoran Mas, Sawangan, Sukmajaya, Tapos</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              106.7751716,-6.3201706,0
+              106.7651716,-6.3351706,0
+              106.7601716,-6.3501706,0
+              106.7551716,-6.3651706,0
+              106.7501716,-6.3801706,0
+              106.7401716,-6.3951706,0
+              106.7301716,-6.4101706,0
+              106.7351716,-6.4251706,0
+              106.7501716,-6.4351706,0
+              106.7651716,-6.4401706,0
+              106.7801716,-6.4401706,0
+              106.8001716,-6.4451706,0
+              106.8201716,-6.4501706,0
+              106.8401716,-6.4551706,0
+              106.8601717,-6.4601706,0
+              106.8801717,-6.4501706,0
+              106.8951717,-6.4301706,0
+              106.9001717,-6.4101706,0
+              106.9051717,-6.3901706,0
+              106.8951717,-6.3701706,0
+              106.8901717,-6.3601706,0
+              106.8751717,-6.3501706,0
+              106.8601717,-6.3501706,0
+              106.8451716,-6.3481706,0
+              106.8301716,-6.3501706,0
+              106.8151716,-6.3451706,0
+              106.8001716,-6.3351706,0
+              106.7901716,-6.3251706,0
+              106.7751716,-6.3201706,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>
