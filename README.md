@@ -25,13 +25,27 @@ data-sig/
 │   ├── Jawa Timur.csv
 │   └── README.md
 │
-└── provinsi/
-    ├── Indonesia Timur.csv
-    ├── Jawa dan Bali.csv
-    ├── Kalimantan.csv
-    ├── Sulawesi.csv
-    ├── Sumatera.csv
-    └── README.md
+├── provinsi/
+|   ├── Indonesia Timur.csv
+|   ├── Jawa dan Bali.csv
+|   ├── Kalimantan.csv
+|   ├── Sulawesi.csv
+|   ├── Sumatera.csv
+|   └── README.md
+|
+└── polygon/
+    ├── praktikum/
+    |   ├── taman-monas/
+    |   ├── gelora-bung-karno/
+    |   ├── kebun-binatang/
+    |   ├── taman-mini/
+    |   └── tebet-echo-park/
+    |
+    └── praktikum-mandiri/
+        ├── kota-dki-jakarta/
+        ├── diy-yogyakarta/
+        └── kota-administrasi-depok/
+
 ```
 
 ## Data
